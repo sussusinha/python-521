@@ -38,5 +38,3 @@ if __name__ == "__main__":
         print('Senha correta')
     else:
         print('Senha incorreta')
-
-    if lucas.password == password:
